@@ -2,7 +2,7 @@
 
 The following blog-like entry is an conglomerat between my own interests concerning AI and information provided by the two following texts:
 
-- Cognitive Orhoses: Toward Human-Centered AI by Kenneth M. Ford et al.
+- Cognitive Orthoses: Toward Human-Centered AI by Kenneth M. Ford et al.
 - The artificial Intelligence Revolution by Tim Urban
 
 
