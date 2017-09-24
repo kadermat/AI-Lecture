@@ -1,3 +1,26 @@
+#P01 Reading Assignment
+
+The following blog-like entry is an conglomerat between my own interests concerning AI and information provided by the two following texts:
+
+- Cognitive Orhoses: Toward Human-Centered AI by Kenneth M. Ford et al.
+- The artificial Intelligence Revolution by Tim Urban
+
+
+
+## Society against aircrafts and AI
+
+An interesting fact I did not know about was mentioned by Mr. Ford in his text. When aircraft came up the resistance coming from society was very heavy. Some people even trying to forbig such technology all together. the argument was "heavier-tahn-air flights too dangerous to society". As we all know they did not succeed and thanks to aircrafts we have a very fast global transportation system. 
+Right know AI goes through the same phase. A lot of people say it is too dangerous to dig too deep into the technology of artificial intelligence. They fear that AI will surpass the human mind in intelligence and will become a threat to existence one way or the other. 
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kadermat/AI-Lecture/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
