@@ -42,7 +42,7 @@ Due to exponential growth this stage is only very narrow. One moment the AI has 
 
 This stage is far away from the current stage of development. However due to exponential growth and our deceived deception of it, it mitght be a lot nearer than we expect. This stage is as describable for us as an ant can describe human kind. We cannot grasp what this superintelligence will be or not. Due to this large void of definition it is a breeding ground for theories, movie plots and doomsday articles. Mr. Urban invests a lot of his text talking about this stage and what an AI at this stage might be and how it might react to the human race.
 
-## conclusion
+## Conclusion
 
 To wrap things up, we are on our way to more intelligent AI's and so it is a good idea to look ahead and spot possible dangers and possibilities. However right now, in my opinion, it is done to such an extent that the doomsday-theorists and clickbait articles discract from the fact that we are still far away from such situations. Even if we consider the exponential growth of technology. 
 
