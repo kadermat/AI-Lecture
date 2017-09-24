@@ -10,7 +10,7 @@ The following blog-like entry is an conglomerat between my own interests concern
 ## Society against aircrafts and AI
 
 An interesting fact I did not know about was mentioned by Mr. Ford in his text. When aircraft came up the resistance coming from society was very heavy. Some people even trying to forbig such technology all together. the argument was "heavier-tahn-air flights too dangerous to society". As we all know they did not succeed and thanks to aircrafts we have a very fast global transportation system. 
-Right know AI goes through the same phase. A lot of people say it is too dangerous to dig too deep into the technology of artificial intelligence. They fear that AI will surpass the human mind in intelligence and will become a threat to existence one way or the other. 
+Right know AI goes through the same phase. A lot of people say it is too dangerous to dig too deep into the technology of artificial intelligence. They fear that AI will surpass the human mind in intelligence and will become a threat to existence one way or the other. the name itself might be detrimental to AI. Everyone can imagine something under these words. They do not need to be a researcher in this field or even know anything about technology all together. Those words are generic enough anyone from any occupational field can build a opinion on it. The fearmongering media does not help by inflating newly learned acheivements concerning AI.
 
 
 
