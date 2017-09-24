@@ -40,48 +40,9 @@ Due to exponential growth this stage is only very small. One moment the AI has s
 
 ### Artificial Superintelligence (ASI)
 
-This stage is far away from the current stage of development. However due to exponential growth and our deceived deception of it, it mitght be a lot nearer than we expect. This stage is as describable for as as an ant can describe human kind. We cannot grasp what this superintelligence will be or not. Due to this large void of definition it is a breeding ground for theories, movie plots and doomsday articles. 
+This stage is far away from the current stage of development. However due to exponential growth and our deceived deception of it, it mitght be a lot nearer than we expect. This stage is as describable for as as an ant can describe human kind. We cannot grasp what this superintelligence will be or not. Due to this large void of definition it is a breeding ground for theories, movie plots and doomsday articles. Mr. Urban invests a lot of his text talking about this stage and what an AI at this stage might be and how it might react to the human race.
 
+## conclusion
 
+To wrap things up, we are on our way to more intelligent AI's and so it is a good idea to look ahead and spot possible dangers and possibilities. However right now in my opinion, it is done to such an extent that the doomsday-theorists and clickbait articles discract from the fact that we are still far away from such situations. Even if we consider the exponential growth of technology. 
 
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kadermat/AI-Lecture/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kadermat/AI-Lecture/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
