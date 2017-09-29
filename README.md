@@ -15,7 +15,7 @@ Right know AI goes through the same phase. A lot of people say it is too dangero
 
 ## Revolution of AI
 
-Mr. Urban describes the perception of exponential growth in an intriguing way. IF you look at it from distance you see very well when the exelaration of growth kicks in. But if you are inside such a kurve, you do not recognize it as such. For you the progress is there but at no time you have the feeling it races towards the sky. 
+Mr. Urban describes the perception of exponential growth in an intriguing way. If you look at it from distance you see very well when the exelaration of growth kicks in. But if you are inside such a kurve, you do not recognize it as such. For you the progress is there but at no time you have the feeling it races towards the sky. 
 This analogy is used to describe the advancement of AI. 
 
 ## Stages of AI
